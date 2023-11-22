@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🤙, I'm Mak</h1>
-<h3 align="center">A passionate software engineering student and full-stack developer from Bosnia & Herzegovina</h3>
+<h3 align="center">A passionate software engineer from Bosnia & Herzegovina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makalijevic&label=Profile%20views&color=0e75b6&style=flat" alt="makalijevic" /> </p>
 
